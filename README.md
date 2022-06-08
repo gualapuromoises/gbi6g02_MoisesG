@@ -1,9 +1,9 @@
 # BIOINFORMÁTICA 2022I
-Borre esta línea
-Inserte un logo 
+ -Universidad regional Amazonica IKIAM
 ## DATOS PERSONALES
-
-
+ -Galilea Pazmiño
+ -22 años
+ -Ecuatoriana
 ## DETALLES DEL EQUIPO
 Inserte un video de Youtube (sobre cómo ver las propiedades del computador )
 
