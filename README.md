@@ -1,11 +1,11 @@
 # BIOINFORMÁTICA 2022I
- -Universidad regional Amazonica IKIAM
+- Universidad regional Amazonica IKIAM
 ## DATOS PERSONALES
 - Galilea Pazmiño
 - 22 años
 - Ecuatoriana
 ## DETALLES DEL EQUIPO
-Inserte un video de Youtube (sobre cómo ver las propiedades del computador )
+- https://www.youtube.com/watch?v=35kXocs8jwk
 
 ## DETALLES DE PROGRAMAS 
 - Nombre del dispositivo	DESKTOP-76CAR66
