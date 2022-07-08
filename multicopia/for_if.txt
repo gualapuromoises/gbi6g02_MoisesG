@@ -1,0 +1,6 @@
+ n1.txt tiene 80 columnas es par
+n11.txt tiene 91 columna es impar
+n21.txt tiene 45 columna es impar
+n31.txt tiene 25 columna es impar
+ n41.txt tiene 10 columnas es par
+n51.txt tiene 15 columna es impar
