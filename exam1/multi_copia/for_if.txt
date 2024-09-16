@@ -1,0 +1,30 @@
+PAR: multi_copia/n1.txt tiene 80 columnas
+PAR: multi_copia/n11.txt tiene 91 columnas
+PAR: multi_copia/n21.txt tiene 45 columnas
+PAR: multi_copia/n31.txt tiene 25 columnas
+PAR: multi_copia/n41.txt tiene 10 columnas
+PAR: multi_copia/n51.txt tiene 15 columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
+PAR:  tiene  columnas
